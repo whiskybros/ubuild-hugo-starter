@@ -11,3 +11,5 @@ fields:
   template: text-column
   name: text_column
   label: Text Column
+pages:
+- posts/test-page.md
