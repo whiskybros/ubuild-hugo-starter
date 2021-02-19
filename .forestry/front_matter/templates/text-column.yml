@@ -12,3 +12,5 @@ fields:
     wysiwyg: true
     schema:
       format: html
+pages:
+- posts/lagavulin-test.md
